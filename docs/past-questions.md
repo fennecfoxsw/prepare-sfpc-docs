@@ -24,7 +24,7 @@ outline: deep
 |    PreB0     |  한라봉 포장0   | [2313](https://codeup.kr/problem.php?id=2313) |          72%           |                                                                                  |
 |    PreB1     |  한라봉 포장1   | [2314](https://codeup.kr/problem.php?id=2314) |          66%           |                                                                                  |
 |    PreC0     | 약수 배수 놀이0 | [2315](https://codeup.kr/problem.php?id=2315) |          49%           |                                                                                  |
-|    PreC1     | 약수 배수 놀이1 | [2316](https://codeup.kr/problem.php?id=2316) |           4%           |                                                                                  |
+|    PreC1     | 약수 배수 놀이1 | [2316](https://codeup.kr/problem.php?id=2316) |           4%           |보기보다 풀이가 상당히 어려운 문제로, 약수의 개수를 찾는데 훨씬 빠른 알고리즘을 사용할 필요가 있음.|
 |    PreD0     |  산딸기 정렬0   | [2317](https://codeup.kr/problem.php?id=2317) |          50%           |                                                                                  |
 |    PreD1     |  산딸기 정렬1   | [2318](https://codeup.kr/problem.php?id=2318) |          37%           | 문제에 입력 조건이 명시되어 있지 않음. $m \leq 1000000, ai \leq 100, n \leq 100$ |
 |    PreE0     | 감귤 나무 관리0 | [2319](https://codeup.kr/problem.php?id=2319) |          66%           |                                                                                  |
