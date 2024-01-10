@@ -17,34 +17,34 @@ outline: deep
 
 ### 1일차 준비하기
 
-| **문항코드** |  **문항이름**   |                  **CodeUp**                   | **성공률<br>(CodeUp)** |                                       비고                                       |
-| :----------: | :-------------: | :-------------------------------------------: | :--------------------: | :------------------------------------------------------------------------------: |
-|    PreA0     |   주차 공간0    | [2311](https://codeup.kr/problem.php?id=2311) |          47%           |                                                                                  |
-|    PreA1     |   주차 공간1    | [2312](https://codeup.kr/problem.php?id=2312) |          52%           |                                                                                  |
-|    PreB0     |  한라봉 포장0   | [2313](https://codeup.kr/problem.php?id=2313) |          72%           |                                                                                  |
-|    PreB1     |  한라봉 포장1   | [2314](https://codeup.kr/problem.php?id=2314) |          66%           |                                                                                  |
-|    PreC0     | 약수 배수 놀이0 | [2315](https://codeup.kr/problem.php?id=2315) |          49%           |                                                                                  |
-|    PreC1     | 약수 배수 놀이1 | [2316](https://codeup.kr/problem.php?id=2316) |           4%           |보기보다 풀이가 상당히 어려운 문제로, 약수의 개수를 찾는데 훨씬 빠른 알고리즘을 사용할 필요가 있음.|
-|    PreD0     |  산딸기 정렬0   | [2317](https://codeup.kr/problem.php?id=2317) |          50%           |                                                                                  |
-|    PreD1     |  산딸기 정렬1   | [2318](https://codeup.kr/problem.php?id=2318) |          37%           | 문제에 입력 조건이 명시되어 있지 않음. $m \leq 1000000, ai \leq 100, n \leq 100$ |
-|    PreE0     | 감귤 나무 관리0 | [2319](https://codeup.kr/problem.php?id=2319) |          66%           |                                                                                  |
-|    PreE1     | 감귤 나무 관리1 | [2320](https://codeup.kr/problem.php?id=2320) |          44%           |                                                                                  |
+| **문항코드** |  **문항이름**   |                  **CodeUp**                   | **성공률<br>(CodeUp)** |                                                비고                                                 |
+| :----------: | :-------------: | :-------------------------------------------: | :--------------------: | :-------------------------------------------------------------------------------------------------: |
+|    PreA0     |   주차 공간0    | [2311](https://codeup.kr/problem.php?id=2311) |          47%           |                                                                                                     |
+|    PreA1     |   주차 공간1    | [2312](https://codeup.kr/problem.php?id=2312) |          52%           |                                                                                                     |
+|    PreB0     |  한라봉 포장0   | [2313](https://codeup.kr/problem.php?id=2313) |          72%           |                                                                                                     |
+|    PreB1     |  한라봉 포장1   | [2314](https://codeup.kr/problem.php?id=2314) |          66%           |                                                                                                     |
+|    PreC0     | 약수 배수 놀이0 | [2315](https://codeup.kr/problem.php?id=2315) |          49%           |                                                                                                     |
+|    PreC1     | 약수 배수 놀이1 | [2316](https://codeup.kr/problem.php?id=2316) |           4%           | 보기보다 풀이가 상당히 어려운 문제로, 약수의 개수를 찾는데 훨씬 빠른 알고리즘을 사용할 필요가 있음. |
+|    PreD0     |  산딸기 정렬0   | [2317](https://codeup.kr/problem.php?id=2317) |          50%           |                                                                                                     |
+|    PreD1     |  산딸기 정렬1   | [2318](https://codeup.kr/problem.php?id=2318) |          37%           |          문제에 입력 조건이 명시되어 있지 않음. $m \leq 1000000, ai \leq 100, n \leq 100$           |
+|    PreE0     | 감귤 나무 관리0 | [2319](https://codeup.kr/problem.php?id=2319) |          66%           |                                                                                                     |
+|    PreE1     | 감귤 나무 관리1 | [2320](https://codeup.kr/problem.php?id=2320) |          44%           |                                                                                                     |
 
 ### 2일차 도전하기
 
-| **문항코드** |  **문항이름**  |                  **CodeUp**                   | **성공률<br>(CodeUp)** |                  **해설영상**                  | 비고 |
-| :----------: | :------------: | :-------------------------------------------: | :--------------------: | :--------------------------------------------: | :--: |
-|      A0      | 자녀의 혈액형0 | [2321](https://codeup.kr/problem.php?id=2321) |          43%           |    [해설영상](https://youtu.be/KH9P2vYKUsI)    |      |
-|      A1      | 자녀의 혈액형1 | [2322](https://codeup.kr/problem.php?id=2322) |          31%           | [해설영상](https://youtu.be/KH9P2vYKUsI?t=122) |      |
-|      B0      |   해녀 비버0   | [2323](https://codeup.kr/problem.php?id=2323) |          71%           |    [해설영상](https://youtu.be/lvoeI6qYGGg)    |      |
-|      B1      |   해녀 비버1   | [2324](https://codeup.kr/problem.php?id=2324) |          42%           | [해설영상](https://youtu.be/lvoeI6qYGGg?t=114) |      |
-|      C0      |  덧셈왕 비버0  | [2325](https://codeup.kr/problem.php?id=2325) |          39%           |    [해설영상](https://youtu.be/Le6ZslGRnjI)    |      |
-|      C1      |  덧셈왕 비버1  | [2326](https://codeup.kr/problem.php?id=2326) |          50%           | [해설영상](https://youtu.be/Le6ZslGRnjI?t=84)  |      |
-|      C2      |  덧셈왕 비버2  | [2327](https://codeup.kr/problem.php?id=2327) |          33%           | [해설영상](https://youtu.be/Le6ZslGRnjI?t=255) |      |
-|      D0      |  칭찬 스티커0  | [2328](https://codeup.kr/problem.php?id=2328) |          44%           |    [해설영상](https://youtu.be/X-jHPSRdhOw)    |      |
-|      D1      |  칭찬 스티커1  | [2329](https://codeup.kr/problem.php?id=2329) |          15%           | [해설영상](https://youtu.be/X-jHPSRdhOw?t=270) |      |
-|      E0      |  한라산 등반0  | [2330](https://codeup.kr/problem.php?id=2330) |          28%           |    [해설영상](https://youtu.be/Ou9fSIusLuo)    |      |
-|      E1      |  한라산 등반1  | [2331](https://codeup.kr/problem.php?id=2331) |          17%           | [해설영상](https://youtu.be/Ou9fSIusLuo?t=159) |      |
+| **문항코드** |  **문항이름**  |                  **CodeUp**                   | **성공률<br>(CodeUp)** |                  **해설영상**                  |                                비고                                 |
+| :----------: | :------------: | :-------------------------------------------: | :--------------------: | :--------------------------------------------: | :-----------------------------------------------------------------: |
+|      A0      | 자녀의 혈액형0 | [2321](https://codeup.kr/problem.php?id=2321) |          43%           |    [해설영상](https://youtu.be/KH9P2vYKUsI)    |                                                                     |
+|      A1      | 자녀의 혈액형1 | [2322](https://codeup.kr/problem.php?id=2322) |          31%           | [해설영상](https://youtu.be/KH9P2vYKUsI?t=122) |                                                                     |
+|      B0      |   해녀 비버0   | [2323](https://codeup.kr/problem.php?id=2323) |          71%           |    [해설영상](https://youtu.be/lvoeI6qYGGg)    |                                                                     |
+|      B1      |   해녀 비버1   | [2324](https://codeup.kr/problem.php?id=2324) |          42%           | [해설영상](https://youtu.be/lvoeI6qYGGg?t=114) |                                                                     |
+|      C0      |  덧셈왕 비버0  | [2325](https://codeup.kr/problem.php?id=2325) |          39%           |    [해설영상](https://youtu.be/Le6ZslGRnjI)    |                                                                     |
+|      C1      |  덧셈왕 비버1  | [2326](https://codeup.kr/problem.php?id=2326) |          50%           | [해설영상](https://youtu.be/Le6ZslGRnjI?t=84)  |                                                                     |
+|      C2      |  덧셈왕 비버2  | [2327](https://codeup.kr/problem.php?id=2327) |          33%           | [해설영상](https://youtu.be/Le6ZslGRnjI?t=255) |                                                                     |
+|      D0      |  칭찬 스티커0  | [2328](https://codeup.kr/problem.php?id=2328) |          44%           |    [해설영상](https://youtu.be/X-jHPSRdhOw)    |                                                                     |
+|      D1      |  칭찬 스티커1  | [2329](https://codeup.kr/problem.php?id=2329) |          15%           | [해설영상](https://youtu.be/X-jHPSRdhOw?t=270) | 평년으로 가정. 즉, 2월은 28일까지만 있으며 29일이 있는 경우는 없음. |
+|      E0      |  한라산 등반0  | [2330](https://codeup.kr/problem.php?id=2330) |          28%           |    [해설영상](https://youtu.be/Ou9fSIusLuo)    |                                                                     |
+|      E1      |  한라산 등반1  | [2331](https://codeup.kr/problem.php?id=2331) |          17%           | [해설영상](https://youtu.be/Ou9fSIusLuo?t=159) |                                                                     |
 
 ## 2022 SFPC 경북
 
