@@ -33,4 +33,7 @@ export default defineConfig({
     sidebarMenuLabel: '메뉴',
     returnToTopLabel: '맨 위로',
   },
+  markdown: {
+    math: true,
+  },
 });
