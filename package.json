@@ -5,8 +5,11 @@
     "docs:preview": "vitepress preview docs"
   },
   "dependencies": {
+    "@antonz/codapi": "^0.12.2",
+    "flexsearch": "^0.7.43",
     "markdown-it-mathjax3": "^4.3.2",
     "vitepress": "1.0.0-rc.36",
+    "vitepress-plugin-search": "1.0.4-alpha.22",
     "vue": "^3.4.6"
   }
 }
